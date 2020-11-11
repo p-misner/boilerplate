@@ -1,0 +1,12 @@
+body {
+   min-width: 200px;
+   max-width: 500px;
+   width: 80vw;
+   margin: 0 auto;
+   font-family: monospace;
+   background-color: yellow;
+}
+
+div {
+    background-color: teal;
+}
